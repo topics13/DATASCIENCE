@@ -1,0 +1,11 @@
+Age,Gender,Salary,CreditScore,Balance,Geography,Exited
+42,Female,58000,619,0.0,France,1
+41,Female,52000,608,83807.86,Spain,0
+42,Female,79000,502,159660.8,France,1
+39,Female,79000,699,0.0,France,0
+43,Male,60000,850,125510.82,Germany,0
+44,Male,60000,645,113755.78,Spain,1
+50,Female,50000,822,0.0,Germany,0
+29,Male,48000,376,115046.74,France,1
+44,Male,54000,501,142051.07,Germany,0
+36,Male,58000,684,134603.88,Spain,1

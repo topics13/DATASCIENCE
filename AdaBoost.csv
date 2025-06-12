@@ -1,0 +1,11 @@
+feature1,feature2,feature3,label
+5,1,10,yes
+7,2,15,no
+8,3,14,yes
+2,4,13,no
+3,2,9,yes
+4,2,12,no
+6,3,13,yes
+7,1,14,no
+2,4,15,yes
+1,5,16,no
